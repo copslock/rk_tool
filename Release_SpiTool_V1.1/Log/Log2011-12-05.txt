@@ -1,0 +1,6 @@
+17:50:50 826	INFO:Download USB Data OK
+17:50:51 498	INFO:Download USB Boot OK
+17:50:53 983	<Layer:1-1> Begin to write file to spi flash
+17:50:54 952	<Layer:1-1> Write filedata OK,Total(57156B)
+17:50:54 952	<Layer:1-1> Begin to check the data
+17:50:55 092	<Layer:1-1> Check data OK,Checked(57156B)

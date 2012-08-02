@@ -1,0 +1,69 @@
+14:14:32 577	INFO:Download USB Data OK
+14:14:33 186	INFO:Download USB Boot OK
+14:14:55 311	INFO:Download USB Data OK
+14:14:55 827	INFO:Download USB Boot OK
+14:14:56 749	<Layer:1-1> Begin to write file to spi flash
+14:14:57 671	<Layer:1-1> Write filedata OK,Total(57156B)
+14:14:57 671	<Layer:1-1> Begin to check the data
+14:14:57 796	<Layer:1-1> Check data OK,Checked(57156B)
+14:15:18 186	INFO:Download USB Data OK
+14:15:18 686	INFO:Download USB Boot OK
+14:15:19 608	<Layer:1-1> Begin to read spi flash to file
+14:15:19 671	<Layer:1-1> Read data from spi flash OK,Total(20000B)
+14:17:34 749	INFO:Download USB Data OK
+14:17:35 358	INFO:Download USB Boot OK
+14:17:46 827	INFO:Download USB Data OK
+14:17:47 327	INFO:Download USB Boot OK
+14:17:48 264	<Layer:1-1> Begin to write file to spi flash
+14:17:49 124	<Layer:1-1> Write filedata OK,Total(57156B)
+14:17:49 124	<Layer:1-1> Begin to check the data
+14:17:49 249	<Layer:1-1> Check data OK,Checked(57156B)
+14:18:19 327	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:18:19 327	ERROR:Download USB Data failed
+14:18:19 327	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:18:21 843	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:18:21 843	ERROR:Download USB Data failed
+14:18:21 843	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:18:35 124	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:18:35 124	ERROR:Download USB Data failed
+14:18:35 124	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:18:49 999	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:18:49 999	ERROR:Download USB Data failed
+14:18:49 999	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:18:51 639	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:18:51 639	ERROR:Download USB Data failed
+14:18:51 639	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:18:55 108	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:18:55 108	ERROR:Download USB Data failed
+14:18:55 108	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:19:06 577	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:19:06 577	ERROR:Download USB Data failed
+14:19:06 577	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:19:20 343	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:19:20 343	ERROR:Download USB Data failed
+14:19:20 343	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:19:27 827	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:19:27 827	ERROR:Download USB Data failed
+14:19:27 827	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:20:00 014	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:20:00 014	ERROR:Download USB Data failed
+14:20:00 014	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:20:03 218	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 2030  dwTotalSended: 0
+14:20:03 218	ERROR:Download USB Data failed
+14:20:03 218	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+14:25:23 280	INFO:Download USB Data OK
+14:25:23 889	INFO:Download USB Boot OK
+14:25:41 608	INFO:Download USB Data OK
+14:25:42 108	INFO:Download USB Boot OK
+14:25:43 030	<Layer:1-1> Begin to write file to spi flash
+14:25:43 936	<Layer:1-1> Write filedata OK,Total(57156B)
+14:25:43 936	<Layer:1-1> Begin to check the data
+14:25:44 061	<Layer:1-1> Check data OK,Checked(57156B)
+17:44:50 421	INFO:Download USB Data OK
+17:44:51 061	INFO:Download USB Boot OK
+17:45:02 186	INFO:Download USB Data OK
+17:45:02 686	INFO:Download USB Boot OK
+17:45:03 608	<Layer:1-1> Begin to write file to spi flash
+17:45:04 514	<Layer:1-1> Write filedata OK,Total(57156B)
+17:45:04 514	<Layer:1-1> Begin to check the data
+17:45:04 655	<Layer:1-1> Check data OK,Checked(57156B)

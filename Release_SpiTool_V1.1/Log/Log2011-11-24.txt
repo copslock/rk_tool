@@ -1,0 +1,215 @@
+10:18:19 775	<Layer:1-1> Begin to read spi flash to file
+10:18:19 962	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+10:18:44 634	<Layer:1-1> Begin to write file to spi flash
+10:18:46 306	<Layer:1-1> Write filedata OK,Total(87800B)
+10:18:46 306	<Layer:1-1> Begin to check the data
+10:18:46 337	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:18:47 462	<Layer:1-1> Begin to write file to spi flash
+10:18:49 306	<Layer:1-1> Write filedata OK,Total(87800B)
+10:18:49 306	<Layer:1-1> Begin to check the data
+10:18:49 337	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:18:49 806	<Layer:1-1> Begin to write file to spi flash
+10:18:51 634	<Layer:1-1> Write filedata OK,Total(87800B)
+10:18:51 634	<Layer:1-1> Begin to check the data
+10:18:51 665	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:18:52 181	<Layer:1-1> Begin to write file to spi flash
+10:18:54 025	<Layer:1-1> Write filedata OK,Total(87800B)
+10:18:54 025	<Layer:1-1> Begin to check the data
+10:18:54 056	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:18:54 712	<Layer:1-1> Begin to write file to spi flash
+10:18:56 556	<Layer:1-1> Write filedata OK,Total(87800B)
+10:18:56 556	<Layer:1-1> Begin to check the data
+10:18:56 587	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:18:57 212	<Layer:1-1> Begin to write file to spi flash
+10:18:59 040	<Layer:1-1> Write filedata OK,Total(87800B)
+10:18:59 040	<Layer:1-1> Begin to check the data
+10:18:59 072	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:18:59 884	<Layer:1-1> Begin to write file to spi flash
+10:19:01 728	<Layer:1-1> Write filedata OK,Total(87800B)
+10:19:01 728	<Layer:1-1> Begin to check the data
+10:19:01 759	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:19:02 337	<Layer:1-1> Begin to write file to spi flash
+10:19:04 165	<Layer:1-1> Write filedata OK,Total(87800B)
+10:19:04 165	<Layer:1-1> Begin to check the data
+10:19:04 197	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:19:17 509	<Layer:1-1> Begin to write file to spi flash
+10:19:19 353	<Layer:1-1> Write filedata OK,Total(87800B)
+10:19:19 353	<Layer:1-1> Begin to check the data
+10:19:19 384	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:19:23 056	<Layer:1-1> Begin to write file to spi flash
+10:19:24 884	<Layer:1-1> Write filedata OK,Total(87800B)
+10:19:24 884	<Layer:1-1> Begin to check the data
+10:19:24 915	<Layer:1-1> ERROR:check data failed,Checked(0B)
+10:19:25 509	<Layer:1-1> Begin to read spi flash to file
+10:19:25 712	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+11:34:32 875	INFO:Download USB Data OK
+11:34:33 468	INFO:Download USB Boot OK
+11:34:35 937	<Layer:1-1> Begin to write file to spi flash
+11:34:37 812	<Layer:1-1> Write filedata OK,Total(87800B)
+11:34:37 812	<Layer:1-1> Begin to check the data
+11:34:37 859	<Layer:1-1> ERROR:check data failed,Checked(0B)
+11:34:56 531	INFO:Download USB Data OK
+11:34:57 031	INFO:Download USB Boot OK
+11:34:57 968	<Layer:1-1> Begin to read spi flash to file
+11:34:58 171	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+11:39:24 359	INFO:Download USB Data OK
+11:39:24 859	INFO:Download USB Boot OK
+11:39:25 781	<Layer:1-1> Begin to write file to spi flash
+11:39:27 671	<Layer:1-1> Write filedata OK,Total(88692B)
+11:39:27 671	<Layer:1-1> Begin to check the data
+11:39:27 718	<Layer:1-1> ERROR:check data failed,Checked(0B)
+11:39:29 281	INFO:Download USB Data OK
+11:39:29 781	INFO:Download USB Boot OK
+11:39:30 703	<Layer:1-1> Begin to read spi flash to file
+11:39:30 906	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+11:41:38 640	INFO:Download USB Data OK
+11:41:39 250	INFO:Download USB Boot OK
+11:41:41 281	<Layer:1-1> Begin to write file to spi flash
+11:41:43 171	<Layer:1-1> Write filedata OK,Total(88692B)
+11:41:43 171	<Layer:1-1> Begin to check the data
+11:41:43 218	<Layer:1-1> ERROR:check data failed,Checked(0B)
+11:41:53 890	INFO:Download USB Data OK
+11:41:54 390	INFO:Download USB Boot OK
+11:41:55 281	<Layer:1-1> Begin to read spi flash to file
+11:41:55 484	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+14:41:46 906	INFO:Download USB Data OK
+14:41:47 546	INFO:Download USB Boot OK
+14:41:49 796	<Layer:1-1> Begin to write file to spi flash
+14:41:51 703	<Layer:1-1> Write filedata OK,Total(88692B)
+14:41:51 703	<Layer:1-1> Begin to check the data
+14:41:51 906	<Layer:1-1> Check data OK,Checked(88692B)
+14:41:55 328	INFO:Download USB Data OK
+14:41:55 828	INFO:Download USB Boot OK
+14:41:56 734	<Layer:1-1> Begin to read spi flash to file
+14:41:56 953	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+14:46:57 734	INFO:Download USB Data OK
+14:46:58 375	INFO:Download USB Boot OK
+14:47:00 687	<Layer:1-1> Begin to write file to spi flash
+14:47:01 921	<Layer:1-1> Write filedata OK,Total(46780B)
+14:47:01 921	<Layer:1-1> Begin to check the data
+14:47:02 031	<Layer:1-1> Check data OK,Checked(46780B)
+14:47:24 515	Error:GetDemoDrive to get next instance failed,instance(13376)
+14:47:25 515	Error:GetDrive to get next instance failed,instance(13444)
+14:47:26 515	Error:GetDrive to get next instance failed,instance(13444)
+18:03:03 062	INFO:Download USB Data OK
+18:03:03 687	INFO:Download USB Boot OK
+18:03:05 984	<Layer:1-1> Begin to read spi flash to file
+18:03:06 187	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+18:03:26 671	INFO:Download USB Data OK
+18:03:27 171	INFO:Download USB Boot OK
+18:03:28 093	<Layer:1-1> Begin to write file to spi flash
+18:03:29 312	<Layer:1-1> Write filedata OK,Total(46780B)
+18:03:29 312	<Layer:1-1> Begin to check the data
+18:03:29 359	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:03:43 265	INFO:Download USB Data OK
+18:03:43 890	INFO:Download USB Boot OK
+18:03:46 203	<Layer:1-1> Begin to write file to spi flash
+18:03:47 421	<Layer:1-1> Write filedata OK,Total(46780B)
+18:03:47 421	<Layer:1-1> Begin to check the data
+18:03:47 453	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:04:12 593	INFO:Download USB Data OK
+18:04:13 093	INFO:Download USB Boot OK
+18:04:14 015	<Layer:1-1> Begin to write file to spi flash
+18:04:15 234	<Layer:1-1> Write filedata OK,Total(46780B)
+18:04:15 234	<Layer:1-1> Begin to check the data
+18:04:15 281	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:04:30 750	INFO:Download USB Data OK
+18:04:31 375	INFO:Download USB Boot OK
+18:04:33 640	<Layer:1-1> Begin to write file to spi flash
+18:04:34 859	<Layer:1-1> Write filedata OK,Total(46780B)
+18:04:34 859	<Layer:1-1> Begin to check the data
+18:04:34 906	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:04:37 937	INFO:Download USB Data OK
+18:04:38 437	INFO:Download USB Boot OK
+18:04:39 375	<Layer:1-1> Begin to read spi flash to file
+18:04:39 578	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+18:04:55 687	INFO:Download USB Data OK
+18:04:56 187	INFO:Download USB Boot OK
+18:04:57 156	<Layer:1-1> Begin to write file to spi flash
+18:04:59 046	<Layer:1-1> Write filedata OK,Total(88692B)
+18:04:59 046	<Layer:1-1> Begin to check the data
+18:04:59 093	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:05:00 734	INFO:Download USB Data OK
+18:05:01 234	INFO:Download USB Boot OK
+18:05:02 156	<Layer:1-1> Begin to read spi flash to file
+18:05:02 390	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+18:05:32 453	INFO:Download USB Data OK
+18:05:32 953	INFO:Download USB Boot OK
+18:05:33 875	<Layer:1-1> Begin to write file to spi flash
+18:05:35 765	<Layer:1-1> Write filedata OK,Total(88692B)
+18:05:35 765	<Layer:1-1> Begin to check the data
+18:05:35 796	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:05:43 734	INFO:Download USB Data OK
+18:05:44 234	INFO:Download USB Boot OK
+18:05:45 218	<Layer:1-1> Begin to read spi flash to file
+18:05:45 437	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+18:05:53 937	INFO:Download USB Data OK
+18:05:54 437	INFO:Download USB Boot OK
+18:05:55 359	<Layer:1-1> Begin to read spi flash to file
+18:05:55 578	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+18:06:03 875	INFO:Download USB Data OK
+18:06:04 375	INFO:Download USB Boot OK
+18:06:05 328	<Layer:1-1> Begin to write file to spi flash
+18:06:07 218	<Layer:1-1> Write filedata OK,Total(88692B)
+18:06:07 218	<Layer:1-1> Begin to check the data
+18:06:07 250	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:06:10 046	INFO:Download USB Data OK
+18:06:10 546	INFO:Download USB Boot OK
+18:06:11 500	<Layer:1-1> Begin to read spi flash to file
+18:06:11 703	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+18:10:12 203	INFO:Download USB Data OK
+18:10:15 093	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 0   nSendBytes: 4096  dwTotalSended: 0
+18:10:15 109	ERROR:Download USB Boot failed
+18:10:15 109	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+18:10:24 171	INFO:Download USB Data OK
+18:10:27 984	ERROR:DeviceIoControl failed  bRet: 0  dwReturnByte: 4096   nSendBytes: 4096  dwTotalSended: 4096
+18:10:27 984	ERROR:Download USB Boot failed
+18:10:27 984	<Layer 1-1>ERROR:RK_DownloadBoot-->Download failed
+18:10:37 859	INFO:Download USB Data OK
+18:10:38 515	INFO:Download USB Boot OK
+18:10:40 796	<Layer:1-1> Begin to write file to spi flash
+18:10:42 703	<Layer:1-1> Write filedata OK,Total(88692B)
+18:10:42 703	<Layer:1-1> Begin to check the data
+18:10:42 750	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:10:44 437	INFO:Download USB Data OK
+18:10:44 937	INFO:Download USB Boot OK
+18:10:45 859	<Layer:1-1> Begin to read spi flash to file
+18:10:46 062	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+18:11:02 578	INFO:Download USB Data OK
+18:11:03 078	INFO:Download USB Boot OK
+18:11:04 031	<Layer:1-1> Begin to write file to spi flash
+18:11:05 921	<Layer:1-1> Write filedata OK,Total(88692B)
+18:11:05 921	<Layer:1-1> Begin to check the data
+18:11:05 953	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:12:19 671	INFO:Download USB Data OK
+18:12:20 296	INFO:Download USB Boot OK
+18:12:22 546	<Layer:1-1> Begin to write file to spi flash
+18:12:23 703	<Layer:1-1> Write filedata OK,Total(88692B)
+18:12:23 703	<Layer:1-1> Begin to check the data
+18:12:23 734	<Layer:1-1> ERROR:check data failed,Checked(0B)
+18:12:25 296	INFO:Download USB Data OK
+18:12:25 796	INFO:Download USB Boot OK
+18:12:26 718	<Layer:1-1> Begin to write file to spi flash
+18:12:27 906	<Layer:1-1> Write filedata OK,Total(88692B)
+18:12:27 906	<Layer:1-1> Begin to check the data
+18:12:28 015	<Layer:1-1> ERROR:check data failed,Checked(32768B)
+18:12:29 031	INFO:Download USB Data OK
+18:12:29 531	INFO:Download USB Boot OK
+18:12:30 437	<Layer:1-1> Begin to read spi flash to file
+18:12:30 656	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+18:20:29 046	INFO:Download USB Data OK
+18:20:29 671	INFO:Download USB Boot OK
+18:20:31 968	<Layer:1-1> Begin to write file to spi flash
+18:20:33 875	<Layer:1-1> Write filedata OK,Total(88692B)
+18:20:33 875	<Layer:1-1> Begin to check the data
+18:20:34 093	<Layer:1-1> Check data OK,Checked(88692B)
+18:20:37 000	INFO:Download USB Data OK
+18:20:37 500	INFO:Download USB Boot OK
+18:20:38 421	<Layer:1-1> Begin to read spi flash to file
+18:20:38 640	<Layer:1-1> Read data from spi flash OK,Total(87800B)
+18:28:02 640	INFO:Download USB Data OK
+18:28:03 234	INFO:Download USB Boot OK
+18:28:05 312	<Layer:1-1> Begin to write file to spi flash
+18:28:06 515	<Layer:1-1> Write filedata OK,Total(46188B)
+18:28:06 515	<Layer:1-1> Begin to check the data
+18:28:06 625	<Layer:1-1> Check data OK,Checked(46188B)

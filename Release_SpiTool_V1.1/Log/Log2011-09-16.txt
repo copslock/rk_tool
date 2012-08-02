@@ -1,0 +1,14 @@
+09:58:23 134	<Layer:8-4> Begin to write file to spi flash
+09:58:23 141	<Layer:8-4> ERROR:write file to spi flash failed,Written(0B),ErrCode(-8)
+10:00:27 280	INFO:Download USB Data OK
+10:00:27 904	INFO:Download USB Boot OK
+10:00:29 356	<Layer:8-4> Begin to write file to spi flash
+10:00:30 568	<Layer:8-4> Write filedata OK,Total(102836B)
+10:00:30 568	<Layer:8-4> Begin to check the data
+10:00:30 789	<Layer:8-4> Check data OK,Checked(102836B)
+10:34:34 641	INFO:Download USB Data OK
+10:34:35 267	INFO:Download USB Boot OK
+10:34:36 730	<Layer:8-4> Begin to write file to spi flash
+10:34:37 943	<Layer:8-4> Write filedata OK,Total(102836B)
+10:34:37 970	<Layer:8-4> Begin to check the data
+10:34:38 191	<Layer:8-4> Check data OK,Checked(102836B)

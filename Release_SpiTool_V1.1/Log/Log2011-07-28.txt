@@ -1,0 +1,4 @@
+14:40:57 437	<Layer:5-6> Begin to write file to spi flash
+14:40:58 171	<Layer:5-6> Write filedata OK,Total(64241B)
+14:40:58 171	<Layer:5-6> Begin to check the data
+14:40:58 312	<Layer:5-6> Check data OK,Checked(64241B)

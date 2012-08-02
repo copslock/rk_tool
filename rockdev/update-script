@@ -1,0 +1,50 @@
+#!enable_script
+# 在升级时显示提示信息
+print "\nPlease KEEP your USB cable or DC-in connected\n"
+print "Do NOT remove SD card form the device\n\n"
+
+# 升级kernel
+write_image PACKAGE:kernel KERNEL:
+check_image PACKAGE:kernel KERNEL:
+
+# 升级boot
+write_image PACKAGE:boot BOOT:
+check_image PACKAGE:boot BOOT:
+
+# 升级system
+write_image PACKAGE:system SYSTEM:
+check_image PACKAGE:system SYSTEM:
+
+# 升级backup
+write_image PACKAGE:backup BACKUP:
+check_image PACKAGE:backup BACKUP:
+
+# 先将recovery写到/tmp/recovery.img，后继再拷贝到userdata分区
+write_image PACKAGE:recovery TMP:recovery.img
+check_image PACKAGE:recovery TMP:recovery.img
+
+# 升级parameter
+write_image PACKAGE:parameter PARAMETER:
+check_image PACKAGE:parameter PARAMETER:
+
+# 格式化数据分区
+format DATA:
+format PAGECACHE:
+format SWAP:
+
+# 拷贝recovery.img到userdata分区，在android启动时升级recovery分区
+copy_file TMP:recovery.img DATA:recovery.img
+check_file TMP:recovery.img DATA:recovery.img
+
+# 写入命令，在bootloader启动时升级bootloader
+write_blcmd update-bootloader
+
+# 将bootloader存放到MISC分区
+write_image PACKAGE:bootloader MISC: 0xC000
+check_image PACKAGE:bootloader MISC: 0xC000
+
+# 删除升级包
+delete PACKAGE:
+
+# 由于升级包可能存放在CACHE分区中，将该分区的格式化留最后
+format CACHE:

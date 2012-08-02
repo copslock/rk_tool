@@ -1,0 +1,16 @@
+11:07:30 514	<Layer:1-1> Begin to write file to spi flash
+11:07:31 718	<Layer:1-1> Write filedata OK,Total(57156B)
+11:07:31 718	<Layer:1-1> Begin to check the data
+11:07:31 827	<Layer:1-1> Check data OK,Checked(57156B)
+11:08:33 671	INFO:Download USB Data OK
+11:08:34 327	INFO:Download USB Boot OK
+11:08:37 186	<Layer:1-1> Begin to write file to spi flash
+11:08:38 608	<Layer:1-1> Write filedata OK,Total(57156B)
+11:08:38 608	<Layer:1-1> Begin to check the data
+11:08:38 733	<Layer:1-1> Check data OK,Checked(57156B)
+11:17:08 999	INFO:Download USB Data OK
+11:17:09 764	INFO:Download USB Boot OK
+11:17:12 733	<Layer:1-1> Begin to write file to spi flash
+11:17:14 155	<Layer:1-1> Write filedata OK,Total(57156B)
+11:17:14 155	<Layer:1-1> Begin to check the data
+11:17:14 280	<Layer:1-1> Check data OK,Checked(57156B)

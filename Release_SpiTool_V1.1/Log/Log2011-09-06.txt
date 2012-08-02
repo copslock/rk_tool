@@ -1,0 +1,20 @@
+10:52:03 812	<Layer:5-6> Begin to write file to spi flash
+10:52:04 984	<Layer:5-6> Write filedata OK,Total(102836B)
+10:52:04 984	<Layer:5-6> Begin to check the data
+10:52:05 187	<Layer:5-6> Check data OK,Checked(102836B)
+15:06:03 687	<Layer:5-6> Begin to write file to spi flash
+15:06:04 375	<Layer:5-6> Write filedata OK,Total(59508B)
+15:06:04 375	<Layer:5-6> Begin to check the data
+15:06:04 500	<Layer:5-6> Check data OK,Checked(59508B)
+15:11:22 765	<Layer:5-6> Begin to write file to spi flash
+15:11:23 484	<Layer:5-6> Write filedata OK,Total(64241B)
+15:11:23 484	<Layer:5-6> Begin to check the data
+15:11:23 625	<Layer:5-6> Check data OK,Checked(64241B)
+15:42:36 562	<Layer:5-6> Begin to write file to spi flash
+15:42:37 750	<Layer:5-6> Write filedata OK,Total(102836B)
+15:42:37 750	<Layer:5-6> Begin to check the data
+15:42:37 953	<Layer:5-6> Check data OK,Checked(102836B)
+16:58:49 875	<Layer:5-6> Begin to write file to spi flash
+16:58:51 078	<Layer:5-6> Write filedata OK,Total(102836B)
+16:58:51 078	<Layer:5-6> Begin to check the data
+16:58:51 281	<Layer:5-6> Check data OK,Checked(102836B)

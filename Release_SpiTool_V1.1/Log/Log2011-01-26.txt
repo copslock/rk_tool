@@ -1,0 +1,11 @@
+10:29:33 733	Error:GetDemoDrive to get next instance failed,instance(5844)
+10:29:34 733	Error:GetDrive to get next instance failed,instance(5912)
+10:29:35 733	Error:QeuryVolume not found the drive
+10:29:47 030	<Layer:1-1> Begin to write file to spi flash
+10:29:47 155	<Layer:1-1> Write filedata OK,Total(11532B)
+10:29:47 170	<Layer:1-1> Begin to check the data
+10:29:47 186	<Layer:1-1> Check data OK,Checked(11532B)
+10:32:15 201	<Layer:1-1> Begin to write file to spi flash
+10:32:15 326	<Layer:1-1> Write filedata OK,Total(11532B)
+10:32:15 326	<Layer:1-1> Begin to check the data
+10:32:15 342	<Layer:1-1> Check data OK,Checked(11532B)

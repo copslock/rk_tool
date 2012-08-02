@@ -1,0 +1,66 @@
+10:45:33 613	<Layer:5-6> Begin to write file to spi flash
+10:45:34 285	<Layer:5-6> Write filedata OK,Total(57604B)
+10:45:34 285	<Layer:5-6> Begin to check the data
+10:45:34 395	<Layer:5-6> Check data OK,Checked(57604B)
+11:25:55 363	<Layer:5-6> Begin to write file to spi flash
+11:25:55 692	<Layer:5-6> Write filedata OK,Total(29528B)
+11:25:55 692	<Layer:5-6> Begin to check the data
+11:25:55 754	<Layer:5-6> Check data OK,Checked(29528B)
+14:29:59 160	<Layer:5-6> Begin to write file to spi flash
+14:29:59 520	<Layer:5-6> Write filedata OK,Total(29528B)
+14:29:59 520	<Layer:5-6> Begin to check the data
+14:29:59 582	<Layer:5-6> Check data OK,Checked(29528B)
+15:03:50 676	<Layer:5-6> Begin to write file to spi flash
+15:03:51 363	<Layer:5-6> Write filedata OK,Total(59508B)
+15:03:51 363	<Layer:5-6> Begin to check the data
+15:03:51 488	<Layer:5-6> Check data OK,Checked(59508B)
+15:09:12 738	<Layer:5-6> Begin to write file to spi flash
+15:09:13 176	<Layer:5-6> Write filedata OK,Total(38280B)
+15:09:13 176	<Layer:5-6> Begin to check the data
+15:09:13 254	<Layer:5-6> Check data OK,Checked(38280B)
+15:13:16 942	<Layer:5-6> Begin to write file to spi flash
+15:13:17 301	<Layer:5-6> Write filedata OK,Total(31500B)
+15:13:17 301	<Layer:5-6> Begin to check the data
+15:13:17 363	<Layer:5-6> Check data OK,Checked(31500B)
+15:16:16 004	<Layer:5-6> Begin to write file to spi flash
+15:16:16 348	<Layer:5-6> Write filedata OK,Total(29528B)
+15:16:16 348	<Layer:5-6> Begin to check the data
+15:16:16 410	<Layer:5-6> Check data OK,Checked(29528B)
+15:45:38 442	<Layer:5-6> Begin to write file to spi flash
+15:45:38 785	<Layer:5-6> Write filedata OK,Total(29528B)
+15:45:38 785	<Layer:5-6> Begin to check the data
+15:45:38 848	<Layer:5-6> Check data OK,Checked(29528B)
+16:26:13 426	<Layer:5-6> Begin to write file to spi flash
+16:26:13 801	<Layer:5-6> Write filedata OK,Total(31460B)
+16:26:13 801	<Layer:5-6> Begin to check the data
+16:26:13 863	<Layer:5-6> Check data OK,Checked(31460B)
+16:33:51 863	<Layer:5-6> Begin to write file to spi flash
+16:33:52 223	<Layer:5-6> Write filedata OK,Total(31456B)
+16:33:52 223	<Layer:5-6> Begin to check the data
+16:33:52 285	<Layer:5-6> Check data OK,Checked(31456B)
+16:36:48 442	<Layer:5-6> Begin to write file to spi flash
+16:36:48 457	<Layer:5-6> ERROR:write file to spi flash failed,Written(0B),ErrCode(-8)
+16:37:35 051	<Layer:5-6> Begin to write file to spi flash
+16:37:35 410	<Layer:5-6> Write filedata OK,Total(31500B)
+16:37:35 410	<Layer:5-6> Begin to check the data
+16:37:35 473	<Layer:5-6> Check data OK,Checked(31500B)
+16:42:57 942	<Layer:5-6> Begin to write file to spi flash
+16:42:58 629	<Layer:5-6> Write filedata OK,Total(59508B)
+16:42:58 629	<Layer:5-6> Begin to check the data
+16:42:58 754	<Layer:5-6> Check data OK,Checked(59508B)
+16:50:32 488	<Layer:5-6> Begin to write file to spi flash
+16:50:33 676	<Layer:5-6> Write filedata OK,Total(102836B)
+16:50:33 676	<Layer:5-6> Begin to check the data
+16:50:33 879	<Layer:5-6> Check data OK,Checked(102836B)
+17:03:51 035	<Layer:5-6> Begin to write file to spi flash
+17:03:51 707	<Layer:5-6> Write filedata OK,Total(59508B)
+17:03:51 707	<Layer:5-6> Begin to check the data
+17:03:51 832	<Layer:5-6> Check data OK,Checked(59508B)
+17:31:50 692	<Layer:5-6> Begin to write file to spi flash
+17:31:51 863	<Layer:5-6> Write filedata OK,Total(102836B)
+17:31:51 863	<Layer:5-6> Begin to check the data
+17:31:52 082	<Layer:5-6> Check data OK,Checked(102836B)
+17:38:25 988	<Layer:5-6> Begin to write file to spi flash
+17:38:26 660	<Layer:5-6> Write filedata OK,Total(59612B)
+17:38:26 660	<Layer:5-6> Begin to check the data
+17:38:26 785	<Layer:5-6> Check data OK,Checked(59612B)
